@@ -1,0 +1,26 @@
+{
+  "DBZ": {
+    "images": [
+      "https://i.ibb.co/8gJfVYm/dbz1.jpg",
+      "https://i.ibb.co/PwxDw93/dbz2.jpg"
+    ],
+    "videos": [
+      "https://example.com/videos/dbz1.mp4"
+    ]
+  },
+  "One Piece": {
+    "images": [
+      "https://i.ibb.co/MchFZbh/onepiece1.jpg",
+      "https://i.ibb.co/TtZQcPW/onepiece2.jpg"
+    ],
+    "videos": [
+      "https://example.com/videos/onepiece1.mp4"
+    ]
+  },
+  "Naruto": {
+    "images": [
+      "https://i.ibb.co/rdQZW8h/naruto1.jpg"
+    ],
+    "videos": []
+  }
+}
