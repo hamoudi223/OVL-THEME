@@ -3,19 +3,11 @@
     "id": "1",
     "nom": "DBZ",
     "images": [
-      "https://exemple.com/dbz1.jpg",
-      "https://exemple.com/dbz2.jpg"
+      "https://textpro.me/images/user_image/2025/05/681cf8fb766d6.jpg-s1180-b1",
+      "https://textpro.me/images/user_image/2025/05/681cf939998f8.jpg-s876-b1"
     ],
     "videos": [
-      "https://exemple.com/dbz1.mp4"
+      "https://i.imgur.com/YyZ3sH9.mp4"
     ]
-  },
-  {
-    "id": "2",
-    "nom": "Naruto",
-    "images": [
-      "https://exemple.com/naruto1.jpg"
-    ],
-    "videos": []
   }
 ]
