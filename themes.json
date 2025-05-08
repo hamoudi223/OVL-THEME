@@ -1,26 +1,21 @@
-{
-  "DBZ": {
+[
+  {
+    "id": "1",
+    "nom": "DBZ",
     "images": [
-      "https://i.ibb.co/8gJfVYm/dbz1.jpg",
-      "https://i.ibb.co/PwxDw93/dbz2.jpg"
+      "https://exemple.com/dbz1.jpg",
+      "https://exemple.com/dbz2.jpg"
     ],
     "videos": [
-      "https://example.com/videos/dbz1.mp4"
+      "https://exemple.com/dbz1.mp4"
     ]
   },
-  "One Piece": {
+  {
+    "id": "2",
+    "nom": "Naruto",
     "images": [
-      "https://i.ibb.co/MchFZbh/onepiece1.jpg",
-      "https://i.ibb.co/TtZQcPW/onepiece2.jpg"
-    ],
-    "videos": [
-      "https://example.com/videos/onepiece1.mp4"
-    ]
-  },
-  "Naruto": {
-    "images": [
-      "https://i.ibb.co/rdQZW8h/naruto1.jpg"
+      "https://exemple.com/naruto1.jpg"
     ],
     "videos": []
   }
-}
+]
