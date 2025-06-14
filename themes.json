@@ -1,8 +1,62 @@
-[
+{
+
+    "id": "1",
+
+    "nom": "Red Dead Redemption II",
+
+    "theme": [
+
+        "https://files.catbox.moe/qvi0m7.jpeg",
+
+        "https://files.catbox.moe/i2i6o7.jpeg",
+
+        "https://files.catbox.moe/dky7aj.jpeg",
+
+        "https://files.catbox.moe/3s0ku0.jpeg",
+
+        "https://files.catbox.moe/mhd1zv.jpeg",
+
+        "https://files.catbox.moe/1nlgo0.jpeg",
+
+        "https://files.catbox.moe/fw0p8c.jpg",
+
+        "https://files.catbox.moe/qnecuh.jpeg",
+
+        "https://files.catbox.moe/jaicim.jpeg",
+
+        "https://files.catbox.moe/hdlkhb.jpeg",
+
+        "https://files.catbox.moe/yx8u43.jpeg",
+
+        "https://files.catbox.moe/39hx41.jpeg",
+
+        "https://files.catbox.moe/925zr0.jpg",
+
+        "https://files.catbox.moe/5xl7bu.jpeg",
+
+        "https://files.catbox.moe/p6smpy.jpeg",
+
+        "https://files.catbox.moe/7a2r1c.jpg",
+
+        "https://files.catbox.moe/0ioqr8.jpeg",
+
+        "https://files.catbox.moe/t2hs8k.jpeg",
+
+        "https://files.catbox.moe/w96h3s.jpeg",
+
+        "https://files.catbox.moe/4y2jod.jpeg",
+
+    ]
+
+    },
+
+
+    
+
 
     {
 
-    "id": "1",
+    "id": "2",
 
     "nom": "OVL-MD-THEME",
 
@@ -52,7 +106,7 @@
 
     {
 
-    "id": "2",
+    "id": "3",
 
     "nom": "Dragon ball z",
 
@@ -158,70 +212,16 @@
 
         "https://files.catbox.moe/rc73ke.jpg",
 
-        "https://files.catbox.moe/80mi1h.jpg"
-
     ]
 
     },
 
 
-
+    
 
 
     {
-
-    "id": "3",
-
-    "nom": "Red Dead Redemption II",
-
-    "theme": [
-
-        "https://files.catbox.moe/qvi0m7.jpeg",
-
-        "https://files.catbox.moe/i2i6o7.jpeg",
-
-        "https://files.catbox.moe/dky7aj.jpeg",
-
-        "https://files.catbox.moe/3s0ku0.jpeg",
-
-        "https://files.catbox.moe/mhd1zv.jpeg",
-
-        "https://files.catbox.moe/1nlgo0.jpeg",
-
-        "https://files.catbox.moe/fw0p8c.jpg",
-
-        "https://files.catbox.moe/qnecuh.jpeg",
-
-        "https://files.catbox.moe/jaicim.jpeg",
-
-        "https://files.catbox.moe/hdlkhb.jpeg",
-
-        "https://files.catbox.moe/yx8u43.jpeg",
-
-        "https://files.catbox.moe/39hx41.jpeg",
-
-        "https://files.catbox.moe/925zr0.jpg",
-
-        "https://files.catbox.moe/5xl7bu.jpeg",
-
-        "https://files.catbox.moe/p6smpy.jpeg",
-
-        "https://files.catbox.moe/7a2r1c.jpg",
-
-        "https://files.catbox.moe/0ioqr8.jpeg",
-
-        "https://files.catbox.moe/t2hs8k.jpeg",
-
-        "https://files.catbox.moe/w96h3s.jpeg",
-
-        "https://files.catbox.moe/4y2jod.jpeg",
-
-    ]
-
-    },
-
-
-
+    
     {"id": "4",
 
     "nom": "Naruto",
